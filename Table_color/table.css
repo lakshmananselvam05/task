@@ -1,0 +1,15 @@
+.tr,th{
+    border: 2px solid gray;
+    width: 150px;
+    padding: 40px
+}
+thead{
+    background-color: black;
+    color:white;
+}
+body{
+    margin-left: 220px;
+}
+.th{
+    background-color: aqua;
+}
